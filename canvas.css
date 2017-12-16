@@ -6,6 +6,12 @@
 	border-radius: 80px;
 	background-color: rgb(102,105,210);
 }
+p{
+	display: block;
+	float: right;
+	text-align: center;
+	width: 600px;
+}
 
 
          /*    context.moveTo(584,254);
